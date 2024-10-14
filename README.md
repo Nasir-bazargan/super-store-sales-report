@@ -1,2 +1,2 @@
 # super-store-sales-report
-Wellcome to my Reository
+Wellcome to my Repository
